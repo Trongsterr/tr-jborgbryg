@@ -1,0 +1,2 @@
+user-Agent:*
+disallow:/googlebot/
